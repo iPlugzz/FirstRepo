@@ -1,7 +1,16 @@
 h1{
   text-align: center;
+  color: purple
+
+  }
+  h2{
+color: purple
   }
   body{
-    background-image:url("https://www.themebeta.com/media/cache/resolve/400x225/files/chrome/images/201508/17/f84074ce90ba16d83ab78df82df39542.jpeg");
+    background-image:url("http://image.nj.com/home/njo-media/width960/img/njcom_photos/photo/2016/01/03/the-new-york-giants-host-the-philadelphia-eagles-in-week-17-nfl-action-95b5e8b7e1d444ac.jpg");
+
     background-size: cover;
+  }
+  p{
+    color:purple
   }
